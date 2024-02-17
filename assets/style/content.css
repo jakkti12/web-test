@@ -1,0 +1,23 @@
+.add_post{
+	width: 100px;
+	float:right;
+}
+.card-user{
+	background-color: #1E1E1E;
+}
+.card-post {
+	background-color: #1E1E1E;
+	float:right;
+	width: 620px;
+}
+.img_post{
+	width: 85%;
+	height: auto;
+	border-radius: 10px;
+	margin-left: 7%;
+	margin-right: 5%;
+	object-fit: cover;
+}
+.font-10px{
+	font-size: 12px;
+}
